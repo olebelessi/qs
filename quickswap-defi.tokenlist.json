@@ -1,0 +1,60 @@
+{
+  "name": "Quickswap DeFi Token List",
+  "timestamp": "2021-04-27T14:30:52.070Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ",
+  "keywords": [
+    "uniswap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "moonwolf.io",
+      "address": "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
+      "symbol“: “WOLF“,
+      "decimals": 9,
+      "chainId": 137,
+      "logoURI": "https://i.imgur.com/UIjlQpC.png"
+    },
+    {
+      "name": "Polywhale.Finance“,
+      "address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
+      "symbol": ”KRILL“,
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://polywhale.finance/images/whale/9.png"
+    },
+    {
+      "name": "hoge.finance",
+      "address": "0x8ad343A7BfBBEEe774AFbD8d326024ab9bAC7712",
+      "symbol": ”HOGE“,
+      "decimals": 9,
+      "chainId": 137,
+      "logoURI": "https://assets.coingecko.com/coins/images/14360/thumb/hoge.jpg?1615641604"
+    },
+    {
+      "name": "Polymoon",
+      "address": "0x3AEF8512Fb6D4231beB786Ef75086951E3ae6362",
+      "symbol": “WOLF“,
+      "decimals": 9,
+      "chainId": 137,
+      "logoURI": "https://images.squarespace-cdn.com/content/60831331f8fd38256bf1c1b9/1619237339890-OXE3PH7HML280H4WMMXT/polymoon2_invtrue.png"
+    },
+    {
+      "name": "Polysafe",
+      "address": "0xB1CB4aC6b1685DcbE691b9246406748805aa6FA8",
+      "symbol": ”POLYSAFE“,
+      "decimals": 9,
+      "chainId": 137,
+      "logoURI": "https://img1.wsimg.com/isteam/ip/773c46fd-0544-4ef4-86d9-183498216e56/polysafe-0001.png"
+    },
+    {
+    }
+  ]
+}
+
