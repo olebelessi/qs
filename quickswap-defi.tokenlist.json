@@ -1,0 +1,75 @@
+	name	"Quickswap DeFi Token List"
+timestamp	"2021-04-26T19:30:52.070Z"
+version	
+major	1
+minor	0
+patch	0
+tags	{}
+logoURI	"ipfs://QmQ9GCVmLQkbPohxKeCYkbpmwfTvHXrY64TmBsPQAZdbqZ"
+keywords	
+0	"uniswap"
+1	"default"
+tokens	
+0	
+name	"moonwolf.io"
+address	"0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16"
+symbol	"WOLF"
+decimals	9
+chainId	137
+logoURI	"https://i.imgur.com/UIjlQpC.png"
+1
+name	"hoge.finance"
+address	"0x8ad343A7BfBBEEe774AFbD8d326024ab9bAC7712"
+symbol	"HOGE"
+decimals	9
+chainId	137
+logoURI	"https://assets.coingecko.com/coins/images/14360/thumb/hoge.jpg?1615641604"
+2
+name	"Polywhale"
+address	"0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b"
+symbol	"KRILL"
+decimals	18
+chainId	137
+logoURI	"https://polywhale.finance/images/whale/9.png"
+3
+name	"Polymoon"
+address	"0x3AEF8512Fb6D4231beB786Ef75086951E3ae6362"
+symbol	"PolyMoon"
+decimals	9
+chainId	137
+logoURI	"https://images.squarespace-cdn.com/content/60831331f8fd38256bf1c1b9/1619237339890-OXE3PH7HML280H4WMMXT/polymoon2_invtrue.png"
+4
+name	"Polysafe"
+address	"0xB1CB4aC6b1685DcbE691b9246406748805aa6FA8"
+symbol	"POLYSAFE"
+decimals	9
+chainId	137
+logoURI	"https://img1.wsimg.com/isteam/ip/773c46fd-0544-4ef4-86d9-183498216e56/polysafe-0001.png"
+5	
+name	"Dai Stablecoin"
+address	"0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1"
+symbol	"DAI"
+decimals	18
+chainId	80001
+logoURI	"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+6	
+name	"Ether"
+address	"0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323"
+symbol	"ETH"
+decimals	18
+chainId	80001
+logoURI	"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+7	
+name	"Tether USD"
+address	"0x3813e82e6f7098b9583FC0F33a962D02018B6803"
+symbol	"USDT"
+decimals	6
+chainId	80001
+logoURI	"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+8	
+name	"Wrapped Matic"
+address	"0xd0A1E359811322d97991E03f863a0C30C2cF029C"
+symbol	"WMATIC"
+decimals	18
+chainId	80001
+logoURI	"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
